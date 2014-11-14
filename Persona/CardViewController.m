@@ -57,7 +57,8 @@
 }
 
 - (void)viewWillAppear:(BOOL)animated {
-  
+   [super viewWillAppear:animated];
+   
   [self cardsForStrings:@[@"I'm a ..."] addedToView:self.staticCard];
   
   [self cardsForStrings:[PersonaString personaGroup1Words] addedToView:self.stackView1];
@@ -70,7 +71,8 @@
 }
 
 - (void)viewDidAppear:(BOOL)animated {
-  
+   [super viewDidAppear:animated];
+   
   [self performSelector:@selector(cardSlideInAnimation) withObject:nil  afterDelay:0.5];
   NSArray *tempA = self.staticCard.subviews;
   for (CardView *card in tempA) {

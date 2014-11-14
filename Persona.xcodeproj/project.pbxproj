@@ -22,6 +22,8 @@
 		DE3C274D169F279B007BF1D9 /* CardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE3C274C169F279B007BF1D9 /* CardViewController.m */; };
 		DE3C2750169F279B007BF1D9 /* CardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE3C274E169F279B007BF1D9 /* CardViewController.xib */; };
 		DE3C2758169F2CA8007BF1D9 /* CardView.m in Sources */ = {isa = PBXBuildFile; fileRef = DE3C2757169F2CA8007BF1D9 /* CardView.m */; };
+		DE639F151A15DD6B0020F9BD /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = DE639F131A15DD6B0020F9BD /* Icon.png */; };
+		DE639F161A15DD6B0020F9BD /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DE639F141A15DD6B0020F9BD /* Icon@2x.png */; };
 		DE6858DF1887326C00E7687F /* Icon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DE6858DD1887326C00E7687F /* Icon60x60@2x.png */; };
 		DE6858E01887326C00E7687F /* Icon60x60.png in Resources */ = {isa = PBXBuildFile; fileRef = DE6858DE1887326C00E7687F /* Icon60x60.png */; };
 		DEB87141188BF30500AD83A5 /* NSMutableArray+Shuffle.m in Sources */ = {isa = PBXBuildFile; fileRef = DEB87140188BF30500AD83A5 /* NSMutableArray+Shuffle.m */; };
@@ -58,6 +60,8 @@
 		DE3C274F169F279B007BF1D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CardViewController.xib; sourceTree = "<group>"; };
 		DE3C2756169F2CA8007BF1D9 /* CardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardView.h; sourceTree = "<group>"; };
 		DE3C2757169F2CA8007BF1D9 /* CardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardView.m; sourceTree = "<group>"; };
+		DE639F131A15DD6B0020F9BD /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		DE639F141A15DD6B0020F9BD /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 		DE674DA5176515DD00F377D0 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		DE6858DD1887326C00E7687F /* Icon60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon60x60@2x.png"; sourceTree = "<group>"; };
 		DE6858DE1887326C00E7687F /* Icon60x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon60x60.png; sourceTree = "<group>"; };
@@ -144,6 +148,8 @@
 		DE3C273A169F279B007BF1D9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DE639F131A15DD6B0020F9BD /* Icon.png */,
+				DE639F141A15DD6B0020F9BD /* Icon@2x.png */,
 				DE6858DD1887326C00E7687F /* Icon60x60@2x.png */,
 				DE6858DE1887326C00E7687F /* Icon60x60.png */,
 				DEC7AEA916B2F9AB00AC4BCE /* Localizable.strings */,
@@ -252,7 +258,9 @@
 				DEE5FDDE18883C5F00708307 /* group3.csv in Resources */,
 				DEE5FDDF18883C5F00708307 /* group2.csv in Resources */,
 				DEE5FDDD18883C5F00708307 /* group1.csv in Resources */,
+				DE639F151A15DD6B0020F9BD /* Icon.png in Resources */,
 				DE3C274A169F279B007BF1D9 /* Default-568h@2x.png in Resources */,
+				DE639F161A15DD6B0020F9BD /* Icon@2x.png in Resources */,
 				DE6858DF1887326C00E7687F /* Icon60x60@2x.png in Resources */,
 				DE3C2750169F279B007BF1D9 /* CardViewController.xib in Resources */,
 				DEC7AEAB16B2F9AB00AC4BCE /* Localizable.strings in Resources */,
