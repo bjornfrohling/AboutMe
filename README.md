@@ -3,4 +3,4 @@ AboutMe
 
 An iOS app to describe my versatile personality :]
 
-![ScreenShot](https://dl.dropboxusercontent.com/u/6303370/AboutMeScreen.png)
+![ScreenShot](https://www.dropbox.com/s/do7t7cepht5l08h/AboutMeScreen.png?dl=0)
